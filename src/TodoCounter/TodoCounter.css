@@ -8,6 +8,15 @@ h1 {
     line-height: normal;
 }
 
+.line2 {
+    border-bottom: 5px solid; 
+    width: 600px;
+    position: absolute;
+    top: 15%;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+}
+
 h2 {
     font-size: 30px;
     color: #fdfde3;

@@ -1,0 +1,36 @@
+.input-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+input {
+    color: #008080;
+    background-color: #fdfde3;
+    border: 1px solid; 
+    border-radius: 10px; 
+    font-size: 25px;
+    text-align: center;
+    width: 400px; /* Ajusta el ancho del input */
+    height: 66.66px; /* Ajusta la altura del input */
+    
+}
+
+input::placeholder {
+    color: #888; /* Cambia el color del texto del placeholder */
+    font-size: 25px; /* Cambia el tamaño de la fuente del placeholder */
+    text-align: center; /* Centra el texto del placeholder */
+}
+
+.search{
+    background-image: url('C:\Users\evcpa\Desktop\CursoReact\curso-react-intro\images\lupa.png');
+    background-repeat: no-repeat;
+    background-position: calc(0% + 15px) 20px;
+    background-size: 30px 30px;
+    border-color: black;
+}
+
+.search:focus{
+    outline-color: black;
+}
+
