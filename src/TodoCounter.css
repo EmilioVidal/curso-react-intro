@@ -1,0 +1,20 @@
+h1 {
+    font-size: 80px;
+    text-align: center;
+    color: #fdfde3;
+    font-family: Inika;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h2 {
+    font-size: 30px;
+    color: #fdfde3;
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 0;
+    padding: 0;
+}
