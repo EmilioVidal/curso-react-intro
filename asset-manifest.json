@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/curso-react-intro/static/css/main.30eff7e8.css",
+    "main.js": "/curso-react-intro/static/js/main.1e9b2d68.js",
+    "static/media/lupa.png": "/curso-react-intro/static/media/lupa.3b8c407dd7cc52b14956.png",
+    "static/media/mas.png": "/curso-react-intro/static/media/mas.452d3a51ea708d032304.png",
+    "static/media/crossR.svg": "/curso-react-intro/static/media/crossR.eb4a5405be8c51865eece5cdbf23aeb4.svg",
+    "index.html": "/curso-react-intro/index.html",
+    "static/media/cross.svg": "/curso-react-intro/static/media/cross.d9c7e0eeb3f573572e1521b7b69ed33e.svg",
+    "static/media/check.svg": "/curso-react-intro/static/media/check.b619fb350e88552983ed40df268151f0.svg",
+    "static/media/checkM.svg": "/curso-react-intro/static/media/checkM.52adafe9f052d8b238f846cc9c5c1627.svg",
+    "main.30eff7e8.css.map": "/curso-react-intro/static/css/main.30eff7e8.css.map",
+    "main.1e9b2d68.js.map": "/curso-react-intro/static/js/main.1e9b2d68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30eff7e8.css",
+    "static/js/main.1e9b2d68.js"
+  ]
+}
